@@ -4,9 +4,9 @@
 - [Pong](#pong)
 - [Description](#description)
 - [Features](#features)
-- [Project Structure](#project-structure)
--   [Scenes](#scenes)
--   [Scripts](#scripts)
+- [Project Structure](#project-structure):
+  - [Scenes](#scenes)
+  - [Scripts](#scripts)
 - [Gameplay](#gameplay)
 - [Menu](#menu)
 - [Pause 1 (before start game)](#pause-1-before-start-game)
